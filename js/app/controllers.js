@@ -5,7 +5,7 @@ function AppCtrl ($scope, $log, $location) {
 	$location.path(path);
 }
 
-function ResourceCtrl ($scope, $routeParams, $log, $location) {
+function ResourceCtrl ($scope, $routeParams, $log, $location, $sce) {
 	$log.info('in resource controller');
     $scope.orgVoc = "Original Vocab";
 	$scope.resources = mockDataStore.resources;
@@ -89,7 +89,7 @@ function ResourceCtrl ($scope, $routeParams, $log, $location) {
         var dialog =  $('#vocab-modal');
         dialog.modal('toggle');
     }
-
+    //currentResource.uri = $sce.trustAsResourceUrl(currentResource.uri);
 }
 
 // TODO: move these functions into model?
@@ -147,7 +147,7 @@ utils.getMaxId = function() {
 
 
 
-function ResourceAddCtrl($scope, $location, $log){
+function ResourceAddCtrl($scope, $location, $log, $sce){
 	$scope.resource = {};
 	$scope.addResource = function(){
         var newUri = $scope.resource.uri;
@@ -156,7 +156,7 @@ function ResourceAddCtrl($scope, $location, $log){
             newUri = newUri.substring(0, newUri.length -1);
         }
 		var resource = utils.extractMetaData(newUri);
-		resource.uri = newUri;
+
 		resource.name = $scope.resource.name;
 		resource.id = utils.getMaxId() + 1;
 		var userTags = $scope.resource.tags.split(',');
@@ -189,8 +189,7 @@ function ResourceAddCtrl($scope, $location, $log){
 		minLength: 0,
 		source: function( request, response ) {
 			// delegate back to autocomplete, but extract the last term
-			response($.ui.autocomplete.filter(
-			mockDataStore.vocabulary, extractLast( request.term ) ) );
+			response($.ui.autocomplete.filter($scope.vocabulary, extractLast(request.term)));
 		},
 		focus: function() {
 			// prevent value inserted on focus
@@ -224,9 +223,9 @@ function VocabularyLoadCtrl($scope, $location, $log, dialog){
     $scope.vocabulary = {};
     $scope.loadVocabulary = function(){
         var tags = $scope.vocabulary.csv.split(',');
-        mockDataStore.vocabulary.length = 0;
+        $scope.vocabulary.length = 0;
         for(t in tags) {
-            mockDataStore.vocabulary.push(tags[t].trim());
+            $scope.vocabulary.push(tags[t].trim());
         }
         dialog.close();
     };

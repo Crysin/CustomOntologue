@@ -13,7 +13,7 @@
 
             <div data-ng-repeat="tab in tabs">
                     <button  ng-click="changeTab(tab.title)"  class="sideBtnSize btn">
-                        {{tab.title}}
+                        <span class="navTextMiddleCat">{{tab.title}}</span>
                     </button>
                 <div  ng-cloak ng-show="tab.currentCategory">
                     <ol id="resource-list" >
@@ -25,17 +25,19 @@
             </div>
 
 
-			<h2>available tags</h2>
+			<h2 class="tagText">Available Tags</h2>
 
 			<div>
-				<button class="btn" href="#vocab-modal" data-toggle="modal">Load A Vocabulary</button>
+				<button class="btn" href="#vocab-modal" data-toggle="modal">
+                    <span class="navTextMiddleCat">Load A Vocabulary</span>
+                </button>
 			</div>
 
 			<div id="current-tags">
                 <span data-ng-repeat="(key, tag) in vocabulary"> {{ tag }} </span>
 			</div>
 
-            <h2>Current Tags:</h2>
+            <h2 class="tagText">Current Tags:</h2>
 				<span data-ng-repeat="(key, tag) in currentResource.tags">
 					{{ tag }}
 				</span>
@@ -62,7 +64,7 @@
 		<div class="row-fluid">
 			<div class="span5">
 				<div class="pane" id="information"> 
-					<h2>information</h2>
+					<h2>Information</h2>
 					<ul>
 						<li><span class="resource-property">id:</span> {{ currentResource.id }} </li>
                         <li><span class="resource-property">type:</span> {{ currentResource.type }} </li>

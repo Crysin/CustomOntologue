@@ -70,6 +70,14 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
     font-size: 20px;
     color: white;
 }
+.navTextMiddleCat{
+    position: relative;
+    vertical-align: middle;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
 .textMiddle:visited{
     vertical-align: middle;
     color: white;
@@ -122,6 +130,13 @@ background-color: blue;
 
 .sideBtnSize{
     position: relative;
-    min-width: 150px;
+    min-width: 174px;
+}
 
+.videoLimit{
+    max-width: 800px;
+}
+
+.tagText{
+font-size: 24px;
 }

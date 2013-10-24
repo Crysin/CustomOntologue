@@ -1,5 +1,6 @@
 var myApp = angular.module('ontologueApp', ['ui.bootstrap', 'ngRoute'])
-	.config(function($routeProvider) {
+	.config(function($routeProvider, $sceProvider) {
+        $sceProvider.enabled(false);
 		$routeProvider.when('/', {
 			templateUrl: '/CustomOntologue/partials/_main.html',
 			controller: AppCtrl
