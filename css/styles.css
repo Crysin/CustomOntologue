@@ -1,0 +1,127 @@
+.pane {
+	border: 1px solid #bbb;
+	margin: 5px;
+	padding: 5px 10px 5px 10px;
+	background: #eee;
+	border-radius: 5px;
+}
+
+#resources {
+	min-height: 770px;
+}
+
+#media-pane {
+	min-height: 480px;
+}
+
+#information {
+	min-height: 326px;
+    min-width: 952px;
+    position: relative;
+    top: -11px;
+}
+
+#vocabulary {
+	min-height: 200px;
+}
+
+#resource-list {
+	padding-top: 10px;
+}
+
+#resource-list li:hover {
+	background: #bbccee;
+}
+
+.current-resource {
+	background: #bbccee;
+}
+
+.resource-property {
+	font-weight: bold;
+}
+
+select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+	margin-bottom:0px;
+}
+
+.navBarTop{
+    position: relative;
+    float:left;
+    padding-top: 7px;
+    background: #000;
+    width: 200px;
+    height: 40px;
+    font-size: 42px;
+    text-align: center;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+}
+.textMiddle{
+    vertical-align: middle;
+
+    color: white;
+}
+
+.navTextMiddle{
+    position: relative;
+    vertical-align: middle;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+.textMiddle:visited{
+    vertical-align: middle;
+    color: white;
+}
+.textMiddle:visited{
+    vertical-align: middle;
+    color: white;
+}
+.textMiddle:hover{
+    text-decoration: none;
+}
+
+.sideBar
+{
+    position: relative;
+    float: left;
+    top: 41px;
+    right: 205px;
+    width: 210px;
+}
+
+.centerOntologue{
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pictureInfoLocation{
+    position: relative;
+    float:right;
+    left: 174px;
+    top: -798px;
+}
+
+.tabSize{
+    position: relative;
+    width: 20px;
+}
+
+.sideAddBtnSize{
+    position: relative;
+    min-width: 150px;
+    min-height: 30px;
+    padding-top: 9px;
+}
+
+.btn-newBackground{
+background-color: blue;
+}
+
+.sideBtnSize{
+    position: relative;
+    min-width: 150px;
+
+}

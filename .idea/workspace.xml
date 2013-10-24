@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/index.html" description="&lt;!DOCTYPE html&gt;&#10;&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;title&gt;&lt;/title&gt;&#10;..." line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c802eed-ea26-4d7c-a949-82becf592b8b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/file/beta-sticker-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/test/fixtures/binary.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/file/binaryfile.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/file/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/datepicker/images/calendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/file/menu_separator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_attach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_find.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_gear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_lightning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_paintbrush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_paste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_acrobat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_actionscript.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_code_red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_coldfusion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_compressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_cplusplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_csharp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_cup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_database.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_dvd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_find.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_flash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_freehand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_gear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_get.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_lightning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_magnify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_medal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_office.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_paint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_paintbrush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_paste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_powerpoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_put.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_ruby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_stack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_swoosh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_text_width.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_tux.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_vector.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_visualstudio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_width.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_world.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_wrench.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_white_zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/icons/page_world.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/speed/size-rate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-file-stream" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/resizable/images/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/thesis.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/.bob.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/qs/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/nan/.index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/buffer-crc32/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/bytes/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/fresh/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/pause/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/node_modules/range-parser/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/node_modules/wordwrap/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/fileapi/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/options/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/tinycolor/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/buffer-crc32/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/00-setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/speed/00" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/269.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/rimraf/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/launchers/Base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/reporters/Base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/reporters/BaseColor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/BaseRollingFileStream-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/streams/BaseRollingFileStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/BufferPool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/BufferPool.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/BufferUtil.fallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/BufferUtil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/BulkCiphers.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/ByteString.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/examples/CAPSLOCKTYPER.JS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/q/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/CipherSuites.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/Crypto.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/DER.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/DateRollingFileStream-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/streams/DateRollingFileStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/reporters/Dots.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/reporters/DotsColor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/ErrorCodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/bytes/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/fresh/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/pause/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/node_modules/range-parser/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/IAsn1Type.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Integer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/di/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/semver/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/sigmund/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/q/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/rimraf/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/nan/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/colors/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/bytes/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie-signature/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/fresh/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/pause/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/node_modules/range-parser/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/options/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/reporters/Multi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/OID.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/PEM.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/PrintableString.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/reporters/Progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/reporters/ProgressColor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/node_modules/wordwrap/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/buffer-crc32/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/di/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/semver/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/sigmund/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/q/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/rimraf/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/nan/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/options/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/tinycolor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/README.org" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/colors/ReadMe.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/bytes/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/fresh/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/pause/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/qs/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/node_modules/range-parser/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/Receiver.hixie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/Receiver.hixie.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/Receiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/Receiver.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/streams/RollingFileStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/Sender.hixie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/Sender.hixie.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/Sender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/Sender.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Set.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSocket.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/Type.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/util/der/UTCTime.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/Validation.fallback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/Validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/Validation.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/WebSocket.integration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/WebSocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/WebSocket.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/WebSocketServer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/WebSocketServer.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/lib/XMLHttpRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/test/_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/_main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/_media_audio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/_media_image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/_media_text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/_media_video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/_resource_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/_resource_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/_resource_summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/_vocabulary_load.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/accordion/accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/accordion/accordion_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/accordion/accordion_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/accordion/accordion_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/accordion/accordion_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/accordion/accordion_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/compound/accordion_tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/accordion/accordion_test_helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/fixtures/agent1-cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/fixtures/agent1-key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/accordion/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/datepicker/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/draggable/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/droppable/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/position/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/progressbar/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/resizable/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/selectable/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/sortable/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/tooltip/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/effects/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/dialog/animated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/tooltip/animations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/di/lib/annotation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/fileapi/public/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/test/_/argv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/array1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/array1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/array2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/array2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/array3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/array3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/array4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/array4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/assignment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/assignment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/dist/async.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/examples/auth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/autobahn-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/autobahn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/autocomplete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/autocomplete_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/autocomplete_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/autocomplete_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/autocomplete_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/autocomplete_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/autotest.watchr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/examples/backpressure_drain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/tools/base64.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/bash-comparison.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/bash-results.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/sigmund/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/basicAuth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/beautify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/benchmark/bench-multipart-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/sigmund/bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/test/_/bin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/binding.gyp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/bodyParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/boolean_double.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/boolean_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/test/brace-expand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/node_modules/wordwrap/test/break.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/example/browser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/buffer_bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/src/bufferutil.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/builderror.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/button/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/fixtures/ca1-cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/fixtures/ca1-key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/test/caching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/.bin/cake.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/.bin/cake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/categoryFilter-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/categoryFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/node_modules/wordwrap/example/center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/fixtures/certificate.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/test/fixtures/change.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/test/chokidar-test.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/cli.js.orig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/static/client.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/clustered.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/clusteredAppender-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/.bin/coffee.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/.bin/coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/colors/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/lib/commander.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/lib/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/middleware/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/test/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/legacy/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/q/benchmark/compare-with-callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/completion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/dialog/complex-dialogs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/bytes/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/compress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/concatstring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/concatstring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/config.tpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/config.tpl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/configuration-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/configureNoLevels-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/connect-logger-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/connect-logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/connect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/console.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/consoleAppender-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/const.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/const.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/static/context.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/session/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/cookieParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/cookieSession.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/buffer-crc32/tests/crc.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/csrf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/cwd-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/date-file-test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/dateFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/dateFileAppender-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/date_format-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/date_format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/datepicker/datepicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/datepicker/datepicker_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/datepicker/datepicker_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/compound/datepicker_dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/datepicker/datepicker_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/datepicker/datepicker_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/datepicker/datepicker_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/datepicker/datepicker_test_helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/debug-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/static/debug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/lib/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/benchmarks/decode.bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/websocket/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/default_hash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/default_singles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/test/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/example/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/compound/dialog_widgets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/diff_multi_bench_output.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/directory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/directory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/divide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/docstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/draggable/draggable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/compound/draggable_accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/compound/draggable_accordion_accordion_tabs_draggable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/draggable/draggable_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/draggable/draggable_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/draggable/draggable_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/draggable/draggable_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/draggable/draggable_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/draggable/draggable_test_helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/droppable/droppable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/droppable/droppable_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/droppable/droppable_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/droppable/droppable_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/droppable/droppable_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/droppable/droppable_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/droppable/droppable_test_helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/effects/effects.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/effects/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/embed-tokens.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/empty-blocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/empty-blocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/benchmarks/encode.bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/js/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/errorHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/examples/example-connect-logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/examples/example-socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/colors/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/colors/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/examples/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/tinycolor/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/executor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/examples/extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/favicon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/file-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/lib/file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/examples/file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/fileAppender-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/flashsocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/foo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/dialog/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/forstatement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/forstatement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/examples/fromreadme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/file/funkyfilename.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/examples/g.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/gelf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/gelfAppender-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/generate_commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/glob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/global-log-level-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/external/globalize.culture.de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/external/globalize.culture.ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/external/globalize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/goto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/goto2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/lib/parser/hiredis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/hiredis_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/hoist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/hookio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/hookioAppender-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/htmlfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/http-polling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/websocket/hybi-07-12.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/websocket/hybi-16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/hybi-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/accordion/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/node_modules/wordwrap/test/idleness.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/if.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/if.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/ifreturn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/ifreturn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/ifreturn2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/ifreturn2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/lib/incoming_form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/src/index.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/fileapi/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/serverstats-express_3/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/serverstats/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/buffer-crc32/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/bytes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie-signature/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/fresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/pause/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/qs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/node_modules/range-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/uid2/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/di/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/streams/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/node_modules/wordwrap/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/websocket/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/http/special-chars-in-filename/info.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/di/lib/injector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/instrument.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/instrument2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/src/is-binary.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/lib/is-binary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue13.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue13.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue14.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue14.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue17.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue17.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue20.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue20.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue21.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue21.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue25.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue25.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue27.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue27.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue278.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue278.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue28.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue28.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue29.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue29.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue34.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue34.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue48.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue48.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue50.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue50.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue53.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue53.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue54.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue54.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue68.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue68.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue69.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue69.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/lib/parser/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery-ui-custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/external/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.autocomplete.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.core.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.datepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.dialog.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.progressbar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.resizable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.resizable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.selectable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.selectable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.slider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.spinner.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.tabs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/jquery.ui.tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/themes/base/minified/jquery.ui.tooltip.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/external/jshint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/example/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/lib/json_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/jsonp-polling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/karma-completion.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/karma.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/middleware/karma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/static/karma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/karma" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/bin/karma" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/fixtures/key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/launcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/layouts-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/layouts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/levels-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/levels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/liftvars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/limit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/line_count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/line_count_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/line_count_wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/.bob/report/lint.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.compat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.legacy.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.mobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/dist/lodash.underscore.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/log-abspath-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/examples/log-rolling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/log4js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/log4js.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/log4js.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/logLevelFilter-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/logLevelFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/logger-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/logging-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/lib/lru-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/manager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/mangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/mangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/mark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/node_modules/wordwrap/example/meat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/mem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/examples/memory-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/session/memory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/stores/memory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/menu/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/methodOverride.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/mime/types/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/minimatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/js/misc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/di/lib/module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/multi_bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/multipart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/multipart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/lib/multipart_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/multiprocess-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/multiprocess.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/namespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/nan/nan.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/js/no-filename.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/nocase-nomagic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/.bin/node-http-proxy.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/.bin/node-http-proxy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/mime/types/node.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/nodelint.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/deps/nodeunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/deps/nodeunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/nolog-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/nonopt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/null_string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/null_string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/lib/object-ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/lib/octet_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/options/lib/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/options/test/options.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/colors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/buffer-crc32/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/bytes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/pause/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/node_modules/range-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/uid2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/di/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/lodash/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/semver/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/lru-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/sigmund/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/q/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/rimraf/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/fileapi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/serverstats/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/serverstats-express_3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/nan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/options/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/tinycolor/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/lib/parse-js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/bench/parser.benchmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/examples/patternLayout-tokens.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/pause-resume.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/button/performance.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/dialog/performance.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/file/plain.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/speed/plot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/position/position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/position/position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/position/position_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/position/position_feedback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/example/post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/js/preamble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/preprocessor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/lib/process.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/progressbar/progressbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/progressbar/progressbar_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/progressbar/progressbar_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/progressbar/progressbar_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/progressbar/progressbar_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/progressbar/progressbar_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/proto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/middleware/proxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/pubsub/pub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/rpushblpop/pub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/q/q.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/lib/querystring_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/addClass/queue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/q/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/lib/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/external/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/external/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/re_sub_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/reconnect_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/tool/record.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/stores/redis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/reflect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/reloadConfiguration-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/remote_object_array_labels.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/remote_object_array_values.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/autocomplete/remote_string_array.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/reporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/fixtures/request.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/resizable/resizable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/resizable/resizable_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/resizable/resizable_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/resizable/resizable_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/resizable/resizable_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/resizable/resizable_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/resizable/resizable_test_helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/responseTime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/rimraf/rimraf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/rollingFileStream-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/root-nomount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/rimraf/test/run.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/pubsub/run" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/rpushblpop/run" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/runner.js.orig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/middleware/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/benchmarks/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/effects/scale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/q/benchmark/scenarios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/selectable/selectable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/selectable/selectable_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/selectable/selectable_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/selectable/selectable_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/selectable/selectable_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/selectable/selectable_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/.bin/semver.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/semver/semver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/.bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/semver/bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/lib/send.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/bench/sender.benchmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/cookie/test/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/server.js.orig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/pubsub/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/rpushblpop/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/fileapi/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/serverstats/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/serverstats-express_3/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/session/session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/setLevel-asymmetry-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/rimraf/test/setup.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/minimatch/node_modules/sigmund/sigmund.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/examples/smtp-appender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/lib/appenders/smtp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/smtpAppender-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/socket.io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/sortable/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/compound/sortable_accordion_sortable_tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/sortable/sortable_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/sortable/sortable_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/sortable/sortable_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/sortable/sortable_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/sortable/sortable_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/sortable/sortable_test_helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/middleware/source-files.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/js/special-chars-in-filename.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/stress/speed/speed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/bench/speed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/spinner/spinner_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/spinner/spinner_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/lib/squeeze-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/ssl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/staticCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/session/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/strict-equals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/strict-equals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/public/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/benches/sub_quit_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/examples/subqueries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/examples/subquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/compound/tabs_tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/compound/tabs_tooltips.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/test/test-async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/rimraf/test/test-async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/standalone/test-connection-aborted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/standalone/test-content-transfer-encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-exceptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/legacy/simple/test-file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/unit/test-file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/integration/test-fixtures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-headers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/legacy/simple/test-incoming-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/unit/test-incoming-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/standalone/test-issue-46.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/integration/test-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/legacy/system/test-multi-video-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/legacy/integration/test-multipart-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/legacy/simple/test-multipart-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/integration/test-octet-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/legacy/simple/test-querystring-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-request-methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-request-protocols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/test-results.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-file-stream-write-less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-file-stream-write-more.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-file-stream-write-more" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-stream-with-existing-files.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-stream-with-existing-files.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-stream-with-existing-files.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-stream-with-existing-files.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-stream-with-existing-files.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/streams/test-rolling-stream-with-existing-files" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-compatibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-finish-pipe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-large-read-stall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-objects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-pipe-error-handling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-read-sync-stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-readable-empty-buffer-no-eof.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-readable-from-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-readable-legacy-drain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-readable-non-empty-end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-set-encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-unpipe-drain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-unpipe-leak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/simple/test-stream2-writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/rimraf/test/test-sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/options/test/fixtures/test.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/async/test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/colors/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/semver/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/mime/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/testdata.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/testparser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/testserver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/test/fixtures/textfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/tinycolor/tinycolor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/lib/to_array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/tooltip/tooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/tooltip/tooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/tooltip/tooltip_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/tooltip/tooltip_core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/tooltip/tooltip_events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/tooltip/tooltip_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/unit/tooltip/tooltip_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/examples/typer-fsr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/examples/typer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/uglify-hangs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/uglify-hangs2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/uglify-js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/.bin/uglifyjs.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/.bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/ui-bootstrap-custom/ui-bootstrap-tpls-0.6.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/chokidar/test/fixtures/unlink.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/example/upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples/fileapi/public/uploader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/urlencoded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/usage-options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/test/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/examples/usr-local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/bench/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/send/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/src/validation.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/var.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/var.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/lib/middleware/vhost.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-ui/tests/visual/visual.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/watcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/lib/web-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/redis/examples/web_server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/websocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/example/wildcards.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/with-categoryFilter.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/with-dateFile.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/with-log-rolling.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/test/with-logLevelFilter.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/with.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/with.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/formidable/test/fixture/js/workarounds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/example/worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/node_modules/wordwrap/test/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/doc/ws.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/.bin/wscat.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/.bin/wscat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/bin/wscat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/test/fixtures/x1024.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/lib/transports/xhr-polling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/optimist/example/xup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/log4js/node_modules/readable-stream/zlib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/karma/node_modules/glob/test/zz-cleanup.js" />
+    </list>
+    <ignored path="CustomOntologue.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CustomOntologue" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="58" selection-start="713" selection-end="714" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ontologue.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app/ontologue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="131" column="61" selection-start="3896" selection-end="3898" vertical-scroll-proportion="0.0" vertical-offset="2227" max-vertical-offset="5151">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/_main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="58" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1972">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/Backup/_main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="36" selection-start="907" selection-end="941" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1938">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/app/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="47" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.10559006" vertical-offset="646" max-vertical-offset="4233">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="118" column="0" selection-start="2137" selection-end="2155" vertical-scroll-proportion="0.0" vertical-offset="1577" max-vertical-offset="2244">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3197" column="4" selection-start="57200" selection-end="57203" vertical-scroll-proportion="0.0" vertical-offset="54147" max-vertical-offset="104941">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_media_audio.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/_media_audio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_media_image.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/_media_image.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="2" selection-start="1297" selection-end="1297" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1972">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/lib/ui-bootstrap-custom/ui-bootstrap-tpls-0.6.0.min.js" />
+        <option value="$PROJECT_DIR$/js/lib/angular/angular-route.min.js" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/js/app/app2.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/tests/Top.SpecRunner.html" />
+        <option value="$PROJECT_DIR$/js/app/ontologue.js" />
+        <option value="$PROJECT_DIR$/partials/Backup/_main.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/js/app/app.js" />
+        <option value="$PROJECT_DIR$/partials/_main.html" />
+        <option value="$PROJECT_DIR$/js/app/controllers.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsKarmaPackageDirSetting">
+    <data>C:\Users\Steven.Roderick2\AppData\Roaming\npm\node_modules\karma</data>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui-bootstrap-custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomOntologue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="settings.nodejs" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Steven.Roderick2\WebstormProjects\CustomOntologue\css" />
+      <recent name="C:\Users\Steven.Roderick2\WebstormProjects\CustomOntologue\js\lib" />
+      <recent name="C:\Users\Steven.Roderick2\WebstormProjects\CustomOntologue\js\app" />
+      <recent name="C:\Users\Steven.Roderick2\WebstormProjects\CustomOntologue" />
+      <recent name="C:\Users\Steven.Roderick2\WebstormProjects\CustomOntologue\js\lib\top" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Steven.Roderick2\WebstormProjects\CustomOntologue\js\lib\angular" />
+      <recent name="C:\Users\Steven.Roderick2\WebstormProjects\CustomOntologue\css" />
+      <recent name="C:\Users\Steven.Roderick2\WebstormProjects\CustomOntologue\js\lib\bootstrap" />
+      <recent name="C:\Users\Steven.Roderick2\WebstormProjects\CustomOntologue\js\lib\d3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Debug">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Debug" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" uri="http://localhost:63342/CustomOntologue/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Jasmine Test" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="$PROJECT_DIR$/karma.conf.js">
+      <envs />
+      <RunnerSettings RunnerId="KarmaCoverageProgramRunner" />
+      <RunnerSettings RunnerId="KarmaJavaScriptTestRunnerDebug" />
+      <RunnerSettings RunnerId="KarmaJavaScriptTestRunnerRun" />
+      <ConfigurationWrapper RunnerId="KarmaCoverageProgramRunner" />
+      <ConfigurationWrapper RunnerId="KarmaJavaScriptTestRunnerDebug" />
+      <ConfigurationWrapper RunnerId="KarmaJavaScriptTestRunnerRun" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Debug" />
+      <item index="1" class="java.lang.String" itemvalue="Karma.Jasmine Test" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c802eed-ea26-4d7c-a949-82becf592b8b" name="Default" comment="" />
+      <created>1381869897149</created>
+      <updated>1381869897149</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15129152" sideWeight="0.7452725" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25324675" sideWeight="0.86241436" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25472748" sideWeight="0.13758565" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/specs/Ontologue.Resource.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/specs/Ontologue.Tag.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="18" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.0" vertical-offset="985" max-vertical-offset="13838" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/_media_image.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/_resource_edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/angular/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7062" column="0" selection-start="243227" selection-end="243227" vertical-scroll-proportion="1.1410459" vertical-offset="119334" max-vertical-offset="325482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/angular/angular-route.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="3133" selection-end="3133" vertical-scroll-proportion="0.16164818" vertical-offset="0" max-vertical-offset="631" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/_media_audio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="58" selection-start="713" selection-end="714" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3197" column="4" selection-start="57200" selection-end="57203" vertical-scroll-proportion="0.0" vertical-offset="54147" max-vertical-offset="104941">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="2" selection-start="1297" selection-end="1297" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/Backup/_main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="36" selection-start="907" selection-end="941" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="0" selection-start="2137" selection-end="2155" vertical-scroll-proportion="0.0" vertical-offset="1577" max-vertical-offset="2244">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/ontologue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="61" selection-start="3896" selection-end="3898" vertical-scroll-proportion="0.0" vertical-offset="1408" max-vertical-offset="5151">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/_main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="58" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="47" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.10559006" vertical-offset="646" max-vertical-offset="4233">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
